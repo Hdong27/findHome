@@ -1,0 +1,30 @@
+.header_all {
+    height: 50px;
+    border-bottom: 1px solid gray;
+}
+
+.header_title {
+    font-size: xx-large;
+}
+
+.header_child {
+    display: inline;
+}
+
+.header_list {
+    float: right;
+    list-style: none;
+}
+
+.header_subList {
+    margin-right: 20px;
+    display: inline;
+}
+
+.header_home {
+    height: 30px;
+}
+
+.header_login {
+    padding-left: 20px;
+}
